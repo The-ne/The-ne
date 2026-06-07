@@ -11,7 +11,7 @@ committed here, and written up publicly.
 ## Repositories & Security Labs
 | Repo | What's in it |
 |------|-------------|
-| [pentest-notes](link) | Methodology, commands, field notes |
+| [pentest-notes](https://github.com/The-ne/Pentest-notes) | Methodology, commands, field notes |
 | [pentest-scripts](link) | Custom Python and Bash tools |
 | [htb-writeups](link) | Machine walkthroughs — retired machines only |
 | [home-lab](link) | Lab build documentation and network diagrams |
