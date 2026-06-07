@@ -1,41 +1,50 @@
-# Richmond Tetteh | Penetration Tester in Training
+# 🥷 Richmond Tetteh | Penetration Tester in Training
 
-> Building toward OSCP | Currently: [Networking Fundamentals for Pentesters]
-> Based in Accra, Ghana — targeting on-site and remote roles
-
----
-
-## What I'm building
-Documenting my penetration testing journey through code, writeups,
-and technical posts. Every technique I study gets applied in a lab,
-committed here, and written up publicly.
+> 📈 Documenting the journey from zero to PNPT & OSCP standards.
+> 📍 Based in Accra, Ghana — targeting on-site and remote roles.
 
 ---
 
-## Repositories
-| Repo | What's in it |
-|------|-------------|
-| [pentest-notes](link) | Methodology, commands, field notes |
-| [pentest-scripts](link) | Custom Python and Bash tools |
-| [htb-writeups](link) | Machine walkthroughs — retired machines only |
-| [home-lab](link) | Lab build documentation and network diagrams |'
+### 🚀 What I'm Building
+Documenting my penetration testing journey through code, writeups, and technical posts. Every technique I study gets applied in an isolated lab, committed here, and written up publicly.
 
 ---
 
-## Progress tracker
-| Module | Status |
-|--------|--------|
-| Introduction to penetration testing | ✅ Complete |
-| Networking Fundamentals for Pentesters | 🔄 In progress |
+### 🛠️ Repositories & Security Labs
+
+
+| 📁 Repository | 📝 Core Contents | ⚡ Status |
+| :--- | :--- | :--- |
+| [📂 pentest-notes](link) | Methodology, commands, and active field notes | `Maintained` |
+| [📂 pentest-scripts](link) | Custom Python and Bash automated offensive tools | `Active` |
+| [📂 htb-writeups](link) | Machine walkthroughs — **strictly retired machines** | `Building` |
+| [📂 home-lab](link) | Local lab build documentation and network topologies | `Designing` |
 
 ---
 
-## Certifications Roadmaps
-- PNPT (Pratical Network Penetration Tester) - Targeting: 2028
-- OSCP (Offensive Security Certified Professional) - Future Target
-- Currently building foundational skills in isolated labs before transitioning to live platform challenges.
+### 📊 Progress Tracker
+
+
+| 📘 Module Focus | 📉 Operational Status |
+| :--- | :--- |
+| Introduction to Penetration Testing | 🟢 **Complete** |
+| Networking Fundamentals for Pentesters | 🟡 **In Progress** |
+| Active Directory Evasion & Exploitation | 🔴 *Queued* |
 
 ---
 
-## Find me
-[LinkedIn](url) 
+### 🗺️ Certification Roadmaps
+
+* 🎯 **PNPT** *(Practical Network Penetration Tester)* — Target: **2028**
+  * *Status: Actively building prerequisite skills in local network routing and AD mechanics.*
+* 🎯 **OSCP** *(Offensive Security Certified Professional)* — Target: **2029**
+  * *Status: Long-term objective focused on advanced automated exploit execution.*
+
+> 💡 *Note: I am deliberately focusing on building deep structural skills in isolated local environments before transitioning to live public platform challenges.*
+
+---
+
+### 🌐 Find Me On
+[![LinkedIn](https://shields.io)](url)
+
+---
