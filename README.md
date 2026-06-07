@@ -12,9 +12,9 @@ committed here, and written up publicly.
 | Repo | What's in it |
 |------|-------------|
 | [pentest-notes](https://github.com/The-ne/Pentest-notes) | Methodology, commands, field notes |
-| [pentest-scripts](link) | Custom Python and Bash tools |
-| [htb-writeups](link) | Machine walkthroughs — retired machines only |
-| [home-lab](link) | Lab build documentation and network diagrams |
+| [pentest-scripts](https://github.com/The-ne/pentest-scripts) | Custom Python and Bash tools |
+| [htb-writeups](https://github.com/The-ne/htb-writeups) | Machine walkthroughs — retired machines only |
+| [home-lab](https://github.com/The-ne/home-lab) | Lab build documentation and network diagrams |
 
 ## Progress tracker
 | Module | Status |
