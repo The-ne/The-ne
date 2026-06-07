@@ -1,7 +1,7 @@
-# Kwame Asante | Penetration Tester in Training
+# Richmond Tetteh | Penetration Tester in Training
 
-> Building toward OSCP | Currently: [your current module]
-> Based in Accra, Ghana — targeting remote roles
+> Building toward OSCP | Currently: [Networking Fundamentals for Pentesters]
+> Based in Accra, Ghana — targeting on-site and remote roles
 
 ## What I'm building
 Documenting my penetration testing journey through code, writeups,
@@ -19,10 +19,9 @@ committed here, and written up publicly.
 ## Progress tracker
 | Module | Status |
 |--------|--------|
-| Networking fundamentals | ✅ Complete |
-| Linux fundamentals | ✅ Complete |
-| Reconnaissance | 🔄 In progress |
-| Web app exploitation | ⏳ Next |
+|Introduction to penetration testing | ✅ Complete |
+| Networking Fundamentals for Pentesters | 🔄 In progress |
+
 
 ## Certifications
 - TryHackMe Jr Penetration Tester — in progress
