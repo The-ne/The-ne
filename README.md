@@ -19,14 +19,14 @@ committed here, and written up publicly.
 ## Progress tracker
 | Module | Status |
 |--------|--------|
-|Introduction to penetration testing | ✅ Complete |
+| Introduction to penetration testing | ✅ Complete |
 | Networking Fundamentals for Pentesters | 🔄 In progress |
 
 
-## Certifications
-- TryHackMe Jr Penetration Tester — in progress
-- PNPT — targeting [quarter/year]
-- OSCP — targeting [quarter/year]
+## Certifications Roadmaps
+- PNPT (Pratical Network Penetration Tester) - Targeting: 2028
+- OSCP (Offensive Security Certified Professional) - Future Target
+- Currently building foundational skills in isolated labs before transitioning to live platform challenges.
 
 ## Find me
-[LinkedIn](url) | [Medium](url) | [HackTheBox](url)
+[LinkedIn](url) 
