@@ -11,10 +11,10 @@ committed here, and written up publicly.
 ## Repositories & Security Labs
 | Repo | What's in it |
 |------|-------------|
-| [pentest-notes](https://github.com/The-ne/Pentest-notes) | Methodology, commands, field notes |
+| [pentest-notes](https://github.com/The-ne/Pentest-notes) | Notes, Methodology, commands, |
 | [pentest-scripts](https://github.com/The-ne/pentest-scripts) | Custom Python and Bash tools |
 | [htb-writeups](https://github.com/The-ne/htb-writeups) | Machine walkthroughs — retired machines only |
-| [home-lab](https://github.com/The-ne/home-lab) | Lab build documentation and network diagrams |
+| [home-lab](https://github.com/The-ne/home-lab) | Lab build documentation |
 
 ## Progress tracker
 | Module | Status |
