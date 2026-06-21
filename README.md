@@ -1,6 +1,10 @@
 # Richmond Tetteh | Penetration Tester in Training
 
-> Building toward OSCP | Currently: [Networking Fundamentals for Pentesters]
+## About Me 
+Second-year student at Ghana Communication Technology University, Ghana
+
+
+> Working toward OSCP & pnpt | Currently: [Networking Fundamentals for Pentesters]
 > Based in Accra, Ghana — targeting on-site and remote roles
 
 ## What I'm building
