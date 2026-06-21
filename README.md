@@ -1,4 +1,4 @@
-# Hi, I'm Richmond Tetteh 
+# <p align="center"> Hi, I'm Richmond Tetteh </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Penetration+Tester+in+Training+;Student;Open+to+mentorship+!;Open+to+collaborative+projects+!)](https://git.io/typing-svg)
 
