@@ -1,6 +1,6 @@
 # <p align="center"> Hi, I'm Richmond Tetteh </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Penetration+Tester+in+Training+;Student;Open+to+mentorship+!;Open+to+collaborative+projects+!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Penetration+Tester+in+Training+;Student;Open+to+mentorship+!;Open+to+collaborative+projects+!" alt="Typing SVG" /></a>
 
 
 ## About Me 
