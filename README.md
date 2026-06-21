@@ -1,9 +1,11 @@
-# Richmond Tetteh | enetration Tester in Training
+# HI, I'm Richmond Tetteh 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Penetration+Tester+in+Training+;Student;Open+to+mentorship+!;Open+to+collaborative+projects+!)](https://git.io/typing-svg)
 
 ## About Me 
-Second-year student at Ghana Communication Technology University, Ghana.
-Working toward OSCP & pnpt | Currently: [Networking Fundamentals for Pentesters].
-If you're reading this, welcome :)... 
+- Second-year student at Ghana Communication Technology University, Ghana.
+- Working toward OSCP & pnpt | Currently: [Networking Fundamentals for Pentesters].
+- If you're reading this, welcome :)... 
 
 > Based in Accra, Ghana — targeting on-site and remote roles
 
