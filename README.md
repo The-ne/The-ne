@@ -2,6 +2,7 @@
 
 ## About Me 
 Second-year student at Ghana Communication Technology University, Ghana
+
 Working toward OSCP & pnpt | Currently: [Networking Fundamentals for Pentesters]
 If you're reading this, welcome :)... 
 
