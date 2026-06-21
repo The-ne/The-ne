@@ -1,6 +1,11 @@
-# HI, I'm Richmond Tetteh 
+# Hi, I'm Richmond Tetteh 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Penetration+Tester+in+Training+;Student;Open+to+mentorship+!;Open+to+collaborative+projects+!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://demolab.com+!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ## About Me 
 - Second-year student at Ghana Communication Technology University, Ghana.
