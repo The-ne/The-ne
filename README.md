@@ -27,7 +27,8 @@ committed here, and written up publicly.
 | Module | Status |
 |--------|--------|
 | Introduction to penetration testing | ✅ Complete |
-| Networking Fundamentals for Pentesters | 🔄 In progress |
+| Networking Fundamentals for Pentesters | ✅ Complete |
+| Linux Fundamentals for Pentesters |🔄 In progress |
 
 ## Certifications Roadmaps
 - PNPT (Pratical Network Penetration Tester) - Targeting: 2028
