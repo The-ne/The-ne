@@ -5,7 +5,7 @@
 
 ## About Me 
 - Second-year student at Ghana Communication Technology University, Ghana.
-- Working toward OSCP & pnpt | Currently: [Networking Fundamentals for Pentesters].
+- Working toward OSCP & pnpt | Currently: [Linux Fundamentals for Pentesters].
 - If you're reading this, welcome :)... 
 
 > Based in Accra, Ghana — targeting on-site and remote roles
