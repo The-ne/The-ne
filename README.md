@@ -20,7 +20,7 @@ committed here, and written up publicly.
 |------|-------------|
 | [pentest-notes](https://github.com/The-ne/Pentest-notes) | Notes, Methodology, commands, |
 | [pentest-scripts](https://github.com/The-ne/pentest-scripts) | Custom Python and Bash tools |
-| [htb-writeups](https://github.com/The-ne/htb-writeups) | Machine walkthroughs — retired machines only |
+| [Lab-writeups](https://github.com/The-ne/Lab-writeups) | Machine walkthroughs |
 | [home-lab](https://github.com/The-ne/home-lab) | Lab build documentation |
 
 ## Progress tracker
